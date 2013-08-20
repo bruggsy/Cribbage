@@ -1,0 +1,4 @@
+Cribbage
+========
+
+Cribbage hand analyzer
